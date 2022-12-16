@@ -61,9 +61,17 @@
 		<table border="1" class="table table-striped table-responsive-md">
 			<thead>
 				<tr>
-					<th>Employee First Name</th>
-					<th>Employee Last Name</th>
-					<th>Employee Email</th>
+					<th>
+						<a th:href="@{'/page/' + ${currentPage} + '?sortField=firstName&sortDiretcion=' + ${reverseSortDir}}">
+						Employee Frist Name</a>
+					</th>
+					<th>
+					<a th:href="@{'/page/' + ${currentPage} + '?sortField=lastName&sortDiretcion=' + ${reverseSortDir}}">
+						Employee Last Name</a></th>
+					<th>
+					<a th:href="@{'/page/' + ${currentPage} + '?sortField=email&sortDiretcion=' + ${reverseSortDir}}">
+						Employee Email</a>
+					</th>
 					<th>Employee Date</th>
 					<th>Options</th>
 				</tr>
