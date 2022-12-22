@@ -41,3 +41,12 @@
    <br><br>
   </div>
 </div>  
+
+<img alt="JS" height="540" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/c25368226b51941f26744adb716c6138c8d9301d/form_basic.PNG">
+<div style="display: inline_block"> 
+   Neste projeto executei um CRUD básico, na tela principal os registros serão carregados automaticamente. invertendo a ordem da lista.
+   <br><br>
+  </div>
+</div>  
+
+<img alt="JS" height="540" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/c25368226b51941f26744adb716c6138c8d9301d/form_basic.PNG">
