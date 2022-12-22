@@ -1,6 +1,5 @@
 # Formulário para cadastro de Usuários
 
-Cadastro de usuários usando Springboot+Thymeleaf+BootStrap+MySQL
 - 🔭 Atualmente em busca de uma oportunidade
 - 🌱 Linguagem de programação: Java/Sprinboot
 - 📫 Contate me: marceloferreiralopez@gmail.com<br>
