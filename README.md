@@ -37,16 +37,30 @@
 
  <div><h2>Descrição do Projeto</h2></div>
   <div style="display: inline_block"> 
-   Neste projeto executei um CRUD básico, na tela principal os registros serão carregados automaticamente.
+   Este projeto utiliza tecnologias e métodos necessários para criação uma formulário dinâmico, onde nesse formulário será feita inserções de novos registros, atualização de registos já existentes e exclusão de um registro através da persistência de dados.
+   
+  </div>
+  <br>
+</div>  
+
+<br><br>
+<div><h3>Tela Principal</h3></div>
+
+<br>
+<img alt="JS" height="540" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/master/form_basic.PNG">
+Nesta tela temos uma lista carregada de registros, um botão para cria um novo registro (New Employe) e dentro do corpo do registro possui as
+informeçãoes referentes ao registro e 2 botões sendo uma para atualização de informação e outro para exclusão do registro.
+<div style="display: inline_block">    
    <br><br>
   </div>
 </div>  
 
-<img alt="JS" height="540" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/c25368226b51941f26744adb716c6138c8d9301d/form_basic.PNG">
-<div style="display: inline_block"> 
-   Neste projeto executei um CRUD básico, na tela principal os registros serão carregados automaticamente. invertendo a ordem da lista.
-   <br><br>
-  </div>
-</div>  
-
+<div><h3>Tela Novo Registro</h3></div>
+<br>
 <img alt="JS" height="540" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/c25368226b51941f26744adb716c6138c8d9301d/form_register.PNG">
+Nesta tela temos os campos para preencher e criar um novo registro.
+<div style="display: inline_block">    
+   <br><br>
+  </div>
+</div> 
+
