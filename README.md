@@ -37,7 +37,7 @@
 
  <div><h2>Descrição do Projeto</h2></div>
   <div style="display: inline_block"> 
-   Este projeto utiliza tecnologias e métodos necessários para criação uma formulário dinâmico, onde nesse formulário será feita inserções de novos registros, atualização de registos já existentes e exclusão de um registro através da persistência de dados.
+  Este projeto utiliza tecnologias e métodos necessários para criação um formulário dinâmico, onde nesse formulário será feita inserções de novos registros, atualização de registos já existentes e exclusão de um registro através da persistência de dados.
    
   </div>
   <br>
@@ -50,7 +50,9 @@
 <img alt="JS" height="400" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/master/form_basic.PNG">
 
 Nesta tela temos uma lista carregada de registros, um botão para cria um novo registro (New Employe) e dentro do corpo do registro possui as
-informeçãoes referentes ao registro e um botão (Azul) para atualizar um registro e outro (Vermelho) para deletar o registro.
+informações referentes ao registro e um botão (Azul) para atualizar um registro e outro (Vermelho) para deletar o registro.
+No label da tabela as colunas estão destacadas na cor azul, nelas foram adicionadas uma função de ordenação (Sort) que ao clicar nela a ordem de exibição será inevrtida de baixo para cima.
+
 <div style="display: inline_block">    
    <br><br>
   </div>
@@ -59,8 +61,8 @@ informeçãoes referentes ao registro e um botão (Azul) para atualizar um regis
 <div><h3>Tela Novo Registro</h3></div>
 <br>
 <img height="400" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/c25368226b51941f26744adb716c6138c8d9301d/form_register.PNG">
-Na página inicial o clicar no botão (New Employee) vôce será redirecionado para essa tela onde nela temos os campos para preencher e criar um novo registro,
-está telas possui validação torna o preenchimento dos dados obrigatório, o botão (Salvar) vai validar as informações do formulario e salvar o registro e abaixo temos um link (Back) que se clicado retorna para a página inicial.
+Na página inicial o clicar no botão (New Employee) você será redirecionado para essa tela onde nela temos os campos para preencher e criar um novo registro,
+está telas possui validação torna o preenchimento dos dados obrigatório, o botão (Salvar) vai validar as informações do formulário e salvar o registro e abaixo temos um link (Back) que se clicado retorna para a página inicial.
 
 <div style="display: inline_block">    
    <br><br>
@@ -70,7 +72,7 @@ está telas possui validação torna o preenchimento dos dados obrigatório, o b
 <div><h3>Tela Atualizar Registro</h3></div>
 <br>
 <img height="400" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/master/form_update.PNG">
-Na página inicial o clicar no botão (Azul) vôce será redirecionado para essa tela onde nela temos todos os campos do registro preenchido porem aqui é possível editalos e salvar posteriormente, está tela também possui validação torna o preenchimento dos dados obrigatório, o botão (Salvar) vai validar as informações do formulario e atualizar o registro e abaixo temos um link (Back) que se clicado retorna para a página inicial.
+Na página inicial o clicar no botão (Azul) você será redirecionado para essa tela onde nela temos todos os campos do registro preenchido porem aqui é possível editá-los e salvar posteriormente, está tela também possui validação torna o preenchimento dos dados obrigatório, o botão (Salvar) vai validar as informações do formulário e atualizar o registro e abaixo temos um link (Back) que se clicado retorna para a página inicial.
 
 <div style="display: inline_block">    
    <br><br>
