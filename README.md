@@ -9,8 +9,10 @@
   <div style="display: inline_block"> 
    <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="50" width="60" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-   <img align="center" alt="JS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+   <img align="center" alt="Boot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+<a target="_blank" href="https://icons8.com/icon/iWpVsSkAqPpZ/thymeleaf"/>
+ <img align="center" alt="Boot" height="60" width="60" src="https://img.icons8.com/color/48/null/thymeleaf.png"">
+
    <br> <br>      
   </div>
   
