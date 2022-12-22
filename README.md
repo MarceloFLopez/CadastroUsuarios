@@ -57,8 +57,9 @@ informeçãoes referentes ao registro e 2 botões sendo uma para atualização d
 
 <div><h3>Tela Novo Registro</h3></div>
 <br>
-<img alt="JS" height="400" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/c25368226b51941f26744adb716c6138c8d9301d/form_register.PNG">
-Nesta tela temos os campos para preencher e criar um novo registro.
+<img height="400" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/c25368226b51941f26744adb716c6138c8d9301d/form_register.PNG">
+Nesta tela temos os campos para preencher e criar um novo registro, está telas possui validação torna o preenchimento dos dados obrigatório.
+
 <div style="display: inline_block">    
    <br><br>
   </div>
