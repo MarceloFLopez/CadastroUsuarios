@@ -17,7 +17,7 @@ import br.com.springbootregistration.model.Employee;
 import br.com.springbootregistration.service.EmployeeService;
 
 @Controller
-@RequestMapping("/employee")
+@RequestMapping("/")
 public class EmployeeController {
 
 	@Autowired
@@ -79,6 +79,6 @@ public class EmployeeController {
 		model.addAttribute("reverseSortDir", sortDiretcion.equals("asc") ? "desc" : "asc");
 		
 		model.addAttribute("listEmployees", employees);
-		return "employee";
+		return "index";
 	}
 }

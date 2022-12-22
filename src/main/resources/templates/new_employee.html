@@ -64,14 +64,14 @@
 		<div class="container g-3">
 			<h2>Save Employee</h2>
 			<form action="#" th:action="@{/saveEmployee}" th:object="${employee}" method="POST">				
-			Nome     <input type="text"  th:field="*{firstName}"class="rowformat form-control mb-2 col-4"  required="required">
-			SobreNome<input type="text"  th:field="*{lastName}" class="rowformat form-control mb-2 col-4"  > 
+			First Name     <input type="text"  th:field="*{firstName}"class="rowformat form-control mb-2 col-4"  required="required">
+			Last Name<input type="text"  th:field="*{lastName}" class="rowformat form-control mb-2 col-4"  > 
 			Email    <input type="email" th:field="*{email}"    class="rowformat form-control mb-2 col-4"  > 
-			Data     <input type="text"  th:field="*{date}"     class="form-control mb-3 col-4"    placeholder="Ex: 01/01/2000" style="width: 17%">
-				<button type="submit" class="btn btn-primary mb-3">Salvar</button>
+			Date     <input type="text"  th:field="*{date}"     class="form-control mb-3 col-4"    placeholder="Ex: 01/01/2000" style="width: 17%">
+				<button type="submit" class="btn btn-primary mb-3">Save</button>
 			</form>
 			<hr>
-			<a th:href="@{/}" class="nav-link " aria-current="page"><- Voltar</a>
+			<a th:href="@{/}" class="nav-link " aria-current="page"><- Back</a>
 		</div>
 
 	<!-- Script JS -->
