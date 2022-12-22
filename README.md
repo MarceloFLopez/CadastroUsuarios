@@ -35,9 +35,9 @@
   </div>
 </div>  
 
- <div><h2>Descrição</h2></div>
+ <div><h2>Descrição do Projeto</h2></div>
   <div style="display: inline_block"> 
-   Neste projeto executei um CRUD básico, na tela principal os registros serão carregados automaticamente. invertendo a ordem da lista.
+   Neste projeto executei um CRUD básico, na tela principal os registros serão carregados automaticamente.
    <br><br>
   </div>
 </div>  
@@ -49,4 +49,4 @@
   </div>
 </div>  
 
-<img alt="JS" height="540" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/c25368226b51941f26744adb716c6138c8d9301d/form_basic.PNG">
+<img alt="JS" height="540" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/c25368226b51941f26744adb716c6138c8d9301d/form_register.PNG">
