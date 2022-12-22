@@ -34,3 +34,10 @@
    <br><br>
   </div>
 </div>  
+
+ <div><h2>Descrição</h2></div>
+  <div style="display: inline_block"> 
+   Neste projeto executei um CRUD básico, na tela principal os registros serão carregados automaticamente. invertendo a ordem da lista.
+   <br><br>
+  </div>
+</div>  
