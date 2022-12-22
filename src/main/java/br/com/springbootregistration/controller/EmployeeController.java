@@ -10,19 +10,21 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import br.com.springbootregistration.model.Employee;
 import br.com.springbootregistration.service.EmployeeService;
 
 @Controller
+@RequestMapping("/employee")
 public class EmployeeController {
 
 	@Autowired
 	private EmployeeService employeeService;
 
 	// Lista de exibição dos funcionários
-	@GetMapping("/")
+	@GetMapping
 	public String viewHomePage(Model model) {
 		return findPaginated(1, "firstName","asc", model);
 	}
@@ -77,6 +79,6 @@ public class EmployeeController {
 		model.addAttribute("reverseSortDir", sortDiretcion.equals("asc") ? "desc" : "asc");
 		
 		model.addAttribute("listEmployees", employees);
-		return "index";
+		return "employee";
 	}
 }
