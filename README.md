@@ -64,7 +64,7 @@ No label da tabela as colunas estão destacadas na cor azul, nelas foram adicion
 <br>
 <img height="400" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/c25368226b51941f26744adb716c6138c8d9301d/form_register.PNG">
 Na página inicial o clicar no botão (New Employee) você será redirecionado para essa tela onde nela temos os campos para preencher e criar um novo registro,
-está telas possui validação torna o preenchimento dos dados obrigatório, o botão (Salvar) vai validar as informações do formulário e salvar o registro e abaixo temos um link (Back) que se clicado retorna para a página inicial.
+está telas possui validação torna o preenchimento dos dados obrigatório, o botão (Save) vai validar as informações do formulário e salvar o registro e abaixo temos um link (Back) que se clicado retorna para a página inicial.
 
 <div style="display: inline_block">    
    <br><br>
@@ -74,7 +74,7 @@ está telas possui validação torna o preenchimento dos dados obrigatório, o b
 <div><h3>Tela Atualizar Registro</h3></div>
 <br>
 <img height="400" width="1100" src="https://github.com/MarceloFLopez/CadastroUsuarios/blob/master/form_update.PNG">
-Na página inicial o clicar no botão (Azul) você será redirecionado para essa tela onde nela temos todos os campos do registro preenchido porem aqui é possível editá-los e salvar posteriormente, está tela também possui validação torna o preenchimento dos dados obrigatório, o botão (Atualizar) vai validar as informações do formulário e atualizar o registro e abaixo temos um link (Voltar) que se clicado retorna para a página inicial.
+Na página inicial o clicar no botão (Azul) você será redirecionado para essa tela onde nela temos todos os campos do registro preenchido porem aqui é possível editá-los e salvar posteriormente, está tela também possui validação torna o preenchimento dos dados obrigatório, o botão (Update) vai validar as informações do formulário e atualizar o registro e abaixo temos um link (Back) que se clicado retorna para a página inicial.
 
 <div style="display: inline_block">    
    <br><br>
